@@ -1,0 +1,12 @@
+[
+    {
+        "name": "plugin-a",
+        "moduleBundlePath": "assets/plugins/plugin-a.bundle.js",
+        "moduleName": "PluginAModule"
+    },
+    {
+        "name": "plugin-b",
+        "moduleBundlePath": "assets/plugins/plugin-b.bundle.js",
+        "moduleName": "PluginBModule"
+    }
+]
